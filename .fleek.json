@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "bbb3dcfe-e1a3-4662-bebd-66b64e1445a4",
+    "team": "1c9b713b-c024-49e3-9d7c-ccbda64c16c9",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "morning-credit-3887"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "out",
+    "rootDir": ""
+  }
+}
